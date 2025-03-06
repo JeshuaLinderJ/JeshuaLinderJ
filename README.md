@@ -1,13 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jeshua Linder Jiménez</h1>
 <h3 align="center">Software Engineering Student | Full Stack Automations Systems Developer</h3>
-<h3 align="center">(https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app)</h3>
+<h3 align="center">
+  <a href="https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app" target="_blank">
+    Portfolio Website
+  </a>
+</h3>
 
 <p align="center">
-  <a href="mailto:jeshualinderj@gmail.com"><img src="https://img.shields.io/badge/Email-jeshualinderj%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="mailto:jeshua.linder@upr.edu"><img src="https://img.shields.io/badge/University-jeshua.linder%40upr.edu-orange?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jeshualinderjimenez/"><img src="https://img.shields.io/badge/LinkedIn-jeshualinderjimenez-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/JeshuaLinderJ"><img src="https://img.shields.io/badge/GitHub-JeshuaLinderJ-181717?style=flat-square&logo=github"></a>
+  <a href="mailto:jeshualinderj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeshualinderj%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="mailto:jeshua.linder@upr.edu">
+    <img src="https://img.shields.io/badge/University-jeshua.linder%40upr.edu-orange?style=flat-square&logo=gmail" alt="University Email">
+  </a>
+  <a href="https://www.linkedin.com/in/jeshualinderjimenez/">
+    <img src="https://img.shields.io/badge/LinkedIn-jeshualinderjimenez-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/JeshuaLinderJ">
+    <img src="https://img.shields.io/badge/GitHub-JeshuaLinderJ-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
 </p>
+
+---
 
 ## 🎓 Education
 - **University of Puerto Rico, Mayagüez**
@@ -17,35 +31,35 @@
 
 ## 💼 Professional Experience
 ### Full Stack Automations Systems Developer at Loxodon-1 (Jan 2024 - Present)
-- Developed Arduino sensors & control website for an in-development liquid rocket engine using LabView and Docker
-- Leading implementation of wireless capability to rocket via client-run, docker mounted, multi-level port forwarded on-site servers
-- Gained experience in aeronautical development, circuit design, agile methodology, multi-level development, and cross-team collaboration
+- Developed Arduino sensors & control website for an in-development liquid rocket engine using LabView and Docker.
+- Led the implementation of wireless capability for the rocket via client-run, Docker-mounted, multi-level port forwarded on-site servers.
+- Gained hands-on experience in aeronautical development, circuit design, agile methodologies, multi-level development, and cross-team collaboration.
 
 ## 🚀 Projects
 
 ### [Automated YouTube/Spotify Playlist from Apple Product](https://github.com/JeshuaLinderJ/apple-playlist-converter) (Jan 2025)
-- Developed Python scripts to parse iPod Classic data and automatically create online music playlists
-- Integrated with Google & Spotify APIs to solve personal dilemma with Apple product
-- Fully open source with comprehensive documentation
+- Developed Python scripts to parse iPod Classic data and automatically create online music playlists.
+- Integrated with Google & Spotify APIs to solve a personal dilemma with an Apple product.
+- Fully open source with comprehensive documentation.
 
 ### [Automated Dice via Microcontroller](https://github.com/JeshuaLinderJ/automated-dice) (Dec 2024)
-- Created tool to automate physical dice with 2, 4, 6, 8, 10, 12, 20, & 100 sides
-- Implemented menu GUI and animated rolling functionality
-- Strengthened microcontroller skills while managing academic & professional responsibilities
+- Created a tool to automate physical dice with 2, 4, 6, 8, 10, 12, 20, & 100 sides.
+- Implemented a menu GUI and animated rolling functionality.
+- Enhanced microcontroller skills while balancing academic and professional responsibilities.
 
 ### [C++ Project Showcase Website](https://JeshuaLinderJ.github.io) (Nov 2024 - Ongoing)
-- Designed and deployed docker-compatible website using GitHub Pages
-- Implemented Web Assembly to showcase C++ programs in browser UI
-- Continuously updating with new projects and improvements
+- Designed and deployed a Docker-compatible website using GitHub Pages.
+- Implemented WebAssembly to showcase C++ programs in a browser-based UI.
+- Continuously updated with new projects and improvements.
 
-### [Python 2d Platformer] (*private repository*) (August 2024 - Ongoing)
-- Developed entirely in Python with Pygame library
-- Multilevel block system with full parallax and mouse/keyboard interaction
+### [Python 2D Platformer] (*Private Repository*, Aug 2024 - Ongoing)
+- Developed entirely in Python using the Pygame library.
+- Implemented a multilevel block system with full parallax and interactive mouse/keyboard controls.
 
-### [Working Sharing/Tracker Application] (https://github.com/JeshuaLinderJ/work_visualizer) (March 2025 - Ongoing)
-- Java-based email tool for work tracking and sharing
-- Automatically renders visualized workflow done by user and is sent via Email
-- Based on Apache & Spring framework
+### [Working Sharing/Tracker Application](https://github.com/JeshuaLinderJ/work_visualizer) (Mar 2025 - Ongoing)
+- Java-based email tool for work tracking and sharing.
+- Automatically renders a visualized workflow created by the user and sends it via email.
+- Built using Apache and the Spring framework.
 
 ## 🛠️ Skills
 ### Languages
@@ -81,25 +95,24 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeshuaLinderJ&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
-</div>
 
-### Contents:
-  - [Categories](#categories)
-      - [Website](#website)
-      - [Microcontroller](#microcontroller)
-      - [Games](#games)
-      - [Etc.](#etc)
+---
 
+### Contents
+- [Categories](#categories)
+  - [Website](#website)
+  - [Microcontroller](#microcontroller)
+  - [Games](#games)
+  - [Etc.](#etc)
 
 ## Categories
 
 #### Website 🤖
 - [Spinning Donut](https://github.com/JeshuaLinderJ/JeshuaLinderJ.github.io)
-- [Portolio](https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app)
+- [Portfolio](https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app)
 
 #### Microcontroller
 - [Digitized Dice](https://github.com/JeshuaLinderJ/digitized_die)
-
 
 #### Games
 - [LYS]()
@@ -107,5 +120,3 @@
 #### Etc.
 - [Work Sharing Service](https://github.com/JeshuaLinderJ/work_visualizer)
 - [iPod Script](https://github.com/JeshuaLinderJ/ipod_script)
-
-
