@@ -11,7 +11,7 @@
 ## 🎓 Education
 - **University of Puerto Rico, Mayagüez**
   - B.S. in Software Engineering
-  - GPA: 3.03
+  - GPA: >3.00
   - Expected Graduation: May 2027
 
 ## 💼 Professional Experience
@@ -36,6 +36,15 @@
 - Designed and deployed docker-compatible website using GitHub Pages
 - Implemented Web Assembly to showcase C++ programs in browser UI
 - Continuously updating with new projects and improvements
+
+### [Python 2d Platformer] (*private repository*) (August 2024 - Ongoing)
+- Developed entirely in Python with Pygame library
+- Multilevel block system with full parallax and mouse/keyboard interaction
+
+### [Working Sharing/Tracker Application] (https://github.com/JeshuaLinderJ/work_visualizer) (March 2025 - Ongoing)
+- Java-based email tool for work tracking and sharing
+- Automatically renders visualized workflow done by user and is sent via Email
+- Based on Apache & Spring framework
 
 ## 🛠️ Skills
 ### Languages
