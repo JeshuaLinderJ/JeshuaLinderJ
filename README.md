@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeshua Linder Jiménez</h1>
 <h3 align="center">Software Engineering Student | Full Stack Automations Systems Developer</h3>
 <h3 align="center">
-  <a href="https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app" target="_blank">
+  <a href="https://portfolio-git-main-jeshuas-projects-51037369.vercel.app" target="_blank">
     Portfolio Website
   </a>
 </h3>
@@ -109,7 +109,7 @@
 
 #### Website 🤖
 - [Spinning Donut](https://github.com/JeshuaLinderJ/JeshuaLinderJ.github.io)
-- [Portfolio](https://portfolio-826e67prp-jeshuas-projects-51037369.vercel.app)
+- [Portfolio](https://portfolio-git-main-jeshuas-projects-51037369.vercel.app)
 
 #### Microcontroller
 - [Digitized Dice](https://github.com/JeshuaLinderJ/digitized_die)
