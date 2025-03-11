@@ -61,7 +61,7 @@
 - Automatically renders a visualized workflow created by the user and sends it via email.
 - Built using Apache and the Spring framework.
 
-*** [Pokemon Color Matcher](https://github.com/JeshuaLinderJ/Pokemon-Color-Matcher) (March 2025 - Ongoing)
+### [Pokemon Color Matcher](https://github.com/JeshuaLinderJ/Pokemon-Color-Matcher) (March 2025 - Ongoing)
 - Java scripted, Python implemented Application
 - Captures cursor activity and under user input, returns the pokemon with the closest average RGB value with pixel under mouse
 - Involved arranging and managing database of 1000+ pokemon sprites, and parsing their color values to use for a image capture application, which in turn compared the values of the entire database on command
