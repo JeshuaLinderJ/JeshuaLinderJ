@@ -37,12 +37,12 @@
 
 ## 🚀 Projects
 
-### [Automated YouTube/Spotify Playlist from Apple Product](https://github.com/JeshuaLinderJ/apple-playlist-converter) (Jan 2025)
+### [Automated YouTube/Spotify Playlist from Apple Product](https://github.com/JeshuaLinderJ/ipod_script) (Jan 2025)
 - Developed Python scripts to parse iPod Classic data and automatically create online music playlists.
 - Integrated with Google & Spotify APIs to solve a personal dilemma with an Apple product.
 - Fully open source with comprehensive documentation.
 
-### [Automated Dice via Microcontroller](https://github.com/JeshuaLinderJ/automated-dice) (Dec 2024)
+### [Automated Dice via Microcontroller](https://github.com/JeshuaLinderJ/digitized_die) (Dec 2024)
 - Created a tool to automate physical dice with 2, 4, 6, 8, 10, 12, 20, & 100 sides.
 - Implemented a menu GUI and animated rolling functionality.
 - Enhanced microcontroller skills while balancing academic and professional responsibilities.
@@ -60,6 +60,11 @@
 - Java-based email tool for work tracking and sharing.
 - Automatically renders a visualized workflow created by the user and sends it via email.
 - Built using Apache and the Spring framework.
+
+*** [Pokemon Color Matcher](https://github.com/JeshuaLinderJ/Pokemon-Color-Matcher) (March 2025 - Ongoing)
+- Java scripted, Python implemented Application
+- Captures cursor activity and under user input, returns the pokemon with the closest average RGB value with pixel under mouse
+- Involved arranging and managing database of 1000+ pokemon sprites, and parsing their color values to use for a image capture application, which in turn compared the values of the entire database on command
 
 ## 🛠️ Skills
 ### Languages
@@ -120,3 +125,4 @@
 #### Etc.
 - [Work Sharing Service](https://github.com/JeshuaLinderJ/work_visualizer)
 - [iPod Script](https://github.com/JeshuaLinderJ/ipod_script)
+- [Pokemon Color Matcher](https://github.com/JeshuaLinderJ/Pokemon-Color-Matcher)
