@@ -26,8 +26,8 @@
 ## 🎓 Education
 - **University of Puerto Rico, Mayagüez**
   - B.S. in Software Engineering
-  - GPA: >3.00
-  - Expected Graduation: May 2027
+  - GPA: 3.0+
+  - Expected Graduation: ~ Summer 2027
 
 ## 💼 Professional Experience
 ### Full Stack Automations Systems Developer at Loxodon-1 (Jan 2024 - Present)
