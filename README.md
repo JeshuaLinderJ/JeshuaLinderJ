@@ -20,21 +20,7 @@
     <img src="https://img.shields.io/badge/GitHub-JeshuaLinderJ-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
 </p>
-
 ---
-
-## 🎓 Education
-- **University of Puerto Rico, Mayagüez**
-  - B.S. in Software Engineering
-  - GPA: 3.0+
-  - Expected Graduation: ~ Summer 2027
-
-## 💼 Professional Experience
-### Full Stack Automations Systems Developer at Loxodon-1 (Jan 2024 - Present)
-- Developed Arduino sensors & control website for an in-development liquid rocket engine using LabView and Docker.
-- Led the implementation of wireless capability for the rocket via client-run, Docker-mounted, multi-level port forwarded on-site servers.
-- Gained hands-on experience in aeronautical development, circuit design, agile methodologies, multi-level development, and cross-team collaboration.
-
 ## 🚀 Projects
 
 ### [Automated YouTube/Spotify Playlist from Apple Product](https://github.com/JeshuaLinderJ/ipod_script) (Jan 2025)
@@ -88,41 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeshuaLinderJ&show_icons=true&theme=radical" alt="JeshuaLinderJ's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeshuaLinderJ&theme=dark" alt="JeshuaLinderJ's GitHub streak" />
-</p>
-
-<p align="center">
   <a href="https://github.com/JeshuaLinderJ/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeshuaLinderJ&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
-
----
-
-### Contents
-- [Categories](#categories)
-  - [Website](#website)
-  - [Microcontroller](#microcontroller)
-  - [Games](#games)
-  - [Etc.](#etc)
-
-## Categories
-
-#### Website 🤖
-- [Spinning Donut](https://github.com/JeshuaLinderJ/JeshuaLinderJ.github.io)
-- [Portfolio](https://portfolio-git-main-jeshuas-projects-51037369.vercel.app)
-
-#### Microcontroller
-- [Digitized Dice](https://github.com/JeshuaLinderJ/digitized_die)
-
-#### Games
-- [LYS]()
-
-#### Etc.
-- [Work Sharing Service](https://github.com/JeshuaLinderJ/work_visualizer)
-- [iPod Script](https://github.com/JeshuaLinderJ/ipod_script)
-- [Pokemon Color Matcher](https://github.com/JeshuaLinderJ/Pokemon-Color-Matcher)
