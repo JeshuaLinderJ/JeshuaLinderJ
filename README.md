@@ -20,7 +20,9 @@
     <img src="https://img.shields.io/badge/GitHub-JeshuaLinderJ-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
 </p>
+
 ---
+
 ## 🚀 Projects
 
 ### [Automated YouTube/Spotify Playlist from Apple Product](https://github.com/JeshuaLinderJ/ipod_script) (Jan 2025)
